@@ -1,0 +1,28 @@
+{
+  "name": "smjenkins",
+  "description": "Controls and Dashboard",
+  "homepage": "netmanagementllc.com",
+  "keywords": [
+    "css",
+    "js",
+    "less",
+    "responsive",
+    "back-end",
+    "template",
+    "theme",
+    "web",
+    "admin"
+  ],
+  "authors": [
+    {
+      "name": "S. Jenkins",
+      "email": "smjenkins1@gmail.com",
+      "name": "Abdullah Almsaeed",
+      
+    }
+  ],
+  "license": "MIT",
+  "support": {
+    "issues": ""
+  }
+}
